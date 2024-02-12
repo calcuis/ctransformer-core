@@ -21,7 +21,7 @@ name = "ctransformer_core"
 
 setup(
     name=name,
-    version="0.0.3",
+    version="0.0.4",
     description="gguf connector core built on ctransformers",
     long_description=long_description,
     long_description_content_type="text/markdown",
