@@ -11,3 +11,8 @@ pip install ctransformer-core
 ```
 
 This is another solo connector core; same as llama-core; being able to work independently as well.
+
+#### reference
+[ctransformers](https://github.com/marella/ctransformers)
+
+All other functions are same as ctransformers; please see the reference above; stay tuned.
