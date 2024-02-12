@@ -15,7 +15,7 @@ python -m ctransformer_core
 ```
 [<img src="https://raw.githubusercontent.com/calcuis/llama-core/master/demo.png" width="235" height="95">](https://github.com/calcuis/llama-core/blob/main/demo.png)
 
-User interface selection (eithr CLI or GUI); while chosen, GGUF file(s) in the current directory will be searched and detected (if any).
+User interfaces are available to choose (eithr CLI or GUI); while chosen, GGUF file(s) in the current directory will be searched and detected.
 
 [<img src="https://raw.githubusercontent.com/calcuis/chatgpt-model-selector/master/demo.gif" width="350" height="280">](https://github.com/calcuis/chatgpt-model-selector/blob/main/demo.gif)
 
