@@ -1,7 +1,7 @@
 ### ctransformer-core
 
 [<img src="https://raw.githubusercontent.com/calcuis/ctransformer-core/master/milk.gif" width="128" height="128">](https://github.com/calcuis/ctransformer-core)
-[![Static Badge](https://img.shields.io/badge/core-0.0.1-yellow?logo=github)](https://github.com/calcuis/ctransformer-core/releases)
+[![Static Badge](https://img.shields.io/badge/core-0.0.2-yellow?logo=github)](https://github.com/calcuis/ctransformer-core/releases)
 
 Follow up the stopping updated project ctransformers; continue working on it.
 
