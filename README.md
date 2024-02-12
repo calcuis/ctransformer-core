@@ -26,17 +26,17 @@ This is another solo connector core; same as llama-core; being able to work inde
 
 All other functions are same as ctransformers; please see the reference above.
 
-#### build from ctransformers-(version).tar.gz (examples below are for CPU)
+#### build from ctransformers-0.2.28.tar.gz (examples below are for CPU)
 According to the latest note inside vs code, msys64 is recommended by Microsoft; or you can opt w64devkit or etc. as source of your gcc and g++ compilers.
 #### for windows user(s):
 ```
 $env:CMAKE_GENERATOR = "MinGW Makefiles"
 $env:CMAKE_ARGS = "-DCMAKE_C_COMPILER=C:/msys64/mingw64/bin/gcc.exe -DCMAKE_CXX_COMPILER=C:/msys64/mingw64/bin/g++.exe"
-pip install ctransformers-(version).tar.gz
+pip install ctransformers-0.2.28.tar.gz
 ```
 In mac, xcode command line tools are recommended by Apple for dealing all coding related issue(s); or you can bypass it for your own good/preference.
 #### for mac user(s):
 ```
-pip3 install ctransformers-(version).tar.gz
+pip3 install ctransformers-0.2.28.tar.gz
 ```
 Make sure your gcc and g++ are >=11; you can check it by: gcc --version and g++ --version if you opt to build the wheel from source code.
