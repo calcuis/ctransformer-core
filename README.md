@@ -5,7 +5,7 @@
 
 Follow up the stopping updated project ctransformers; continue working on it.
 
-#### install it via (pip/pip3):
+#### install it by (pip/pip3):
 ```
 pip install ctransformers-0.2.28.tar.gz
 ```
